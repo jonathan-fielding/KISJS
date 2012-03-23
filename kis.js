@@ -1,0 +1,1 @@
+function $(a){a=document.querySelectorAll(a);return 1<a.length?a:a[0]};
